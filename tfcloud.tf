@@ -1,6 +1,6 @@
 terraform {
   cloud {
-    organization = "hprateek43"
+    organization = "kushal21"
 
     workspaces {
       name = "tf-gh-actions"
